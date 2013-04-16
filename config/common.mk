@@ -89,14 +89,15 @@ PRODUCT_PACKAGES += \
     VoiceDialer \
     SoundRecorder \
     Basic \
-    HoloSpiralWallpaper \
-    MagicSmokeWallpapers \
-    NoiseField \
-    Galaxy4 \
-    LiveWallpapers \
-    LiveWallpapersPicker \
-    VisualizationWallpapers \
-    PhaseBeam
+# We don't need this / LiveWP doesnt work
+#    HoloSpiralWallpaper \
+#    MagicSmokeWallpapers \
+#    NoiseField \
+#    Galaxy4 \
+#    LiveWallpapers \
+#    LiveWallpapersPicker \
+#    VisualizationWallpapers \
+#    PhaseBeam
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
